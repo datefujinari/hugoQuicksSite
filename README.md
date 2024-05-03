@@ -1,1 +1,1 @@
-#hugoQuickSite
+#hugoQuickSite2
